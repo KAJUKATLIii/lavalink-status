@@ -4,8 +4,8 @@ module.exports = {
 
   nodes: [
     {
-      host: "",
-      password: "",
+      host: "nodelink-sbj8.onrender.com",
+      password: "youshallnotpass",
       port: 2333,
       identifier: "",
       secure: true,
